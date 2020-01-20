@@ -16,4 +16,4 @@ KEMS_MOPAC2016_files contains MOPAC files that were used to estimate the partial
 
 The Excel spreadsheet contains all calculated solid state and sub-cooled saturation vapour pressures.
 
-[![DOI](https://zenodo.org/badge/234338938.svg)](https://zenodo.org/badge/latestdoi/234338938) Citation: Shelley et al., (2020) Measured-solid-state-and-sub-cooled-liquid-vapour-pressures-of-nitroaromatics-using-KEMS-Data-Set, Zenodo, https://doi.org/10.5281/ZENODO.3613581
+[![DOI](https://zenodo.org/badge/234338938.svg)](https://zenodo.org/badge/latestdoi/234338938). Citation: Shelley et al., (2020) Measured-solid-state-and-sub-cooled-liquid-vapour-pressures-of-nitroaromatics-using-KEMS-Data-Set, Zenodo, https://doi.org/10.5281/ZENODO.3613581
